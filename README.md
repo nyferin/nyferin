@@ -2,6 +2,7 @@
 
 ### Nice to meet you! People called me Anthony
 
+![](https://komarev.com/ghpvc/?username=nyferin)
 <!--
 **nyferin/nyferin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
